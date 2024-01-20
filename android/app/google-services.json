@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845473375418",
+    "project_id": "authjay-c49dd",
+    "storage_bucket": "authjay-c49dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845473375418:android:5ac8d5b9b66b43b479ce83",
+        "android_client_info": {
+          "package_name": "com.redjayapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845473375418-ta7mptk19ubg0809kv6kcr1l977nqm26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redjayapp.app",
+            "certificate_hash": "5ce17fefb0cc172411d7ed80c7c138a7cbd0d372"
+          }
+        },
+        {
+          "client_id": "845473375418-gakpdraev5ranf9nh2ev98srr3c9pa51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD21OAA5gQkjzW2yUg3w5DgIqfgsit6XRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845473375418-gakpdraev5ranf9nh2ev98srr3c9pa51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
